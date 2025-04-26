@@ -7,11 +7,10 @@
 ## 📊 Power BI Projects
 
 **Revenue Tracker**  
-🔗 [Link to Project Page (1)](https://github.com/joshmadakor1/Algorithms-Practice)
+🔗 [Link to Project Page (1)](https://github.com/your-username/revenue-tracker)
 
 **Open Order Report**  
-🔗 [Link to Project Page (1)](https://github.com/joshmadakor1/Algorithms-Practice)
-
+🔗 [Link to Project Page (2)](https://github.com/your-username/open-order-report)
 
 ---
 
