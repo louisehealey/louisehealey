@@ -10,7 +10,8 @@
 🔗 [Link to Project Page (1)](https://github.com/joshmadakor1/Algorithms-Practice)
 
 **Open Order Report**  
-🔗 [![Demo Video](https://img.youtube.com/vi/yourvideoID/0.jpg)](https://www.youtube.com/watch?v=yourvideoID)
+🔗 [Link to Project Page (1)](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 ---
 
