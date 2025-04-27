@@ -10,7 +10,7 @@
 🔗 [Link to Project Page (1)](https://github.com/your-username/revenue-tracker)
 
 **Open Order Report**  
-🔗 [Open Order Report Demo](https://github.com/louisehealey/OpenOrderReport)
+🔗 [Open Order Report Demo](https://github.com/louisehealey/OpenOrderReport/blob/main/README.md)
 
 ---
 
