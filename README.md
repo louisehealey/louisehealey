@@ -7,10 +7,11 @@
 ## 📊 Power BI Projects
 
 **Revenue Tracker**  
-🔗 [RevenueTracker Demo](https://github.com/louisehealey//README.md)
+🔗 [RevenueTracker Demo](https://github.com/louisehealey/RevenueOverview/blob/main/README.md)
+OpenOrderReport
 
 **Open Order Report**  
-🔗 [Open Order Report Demo](https://github.com/louisehealey/RevenueOverview/blob/main/README.md)
+🔗 [Open Order Report Demo](https://github.com/louisehealey/OpenOrderReport/blob/main/README.md)
 
 ---
 
