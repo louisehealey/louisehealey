@@ -1,19 +1,25 @@
 # Hey there, I'm Louise! (She/Her)  
 ### 👩‍💻 Supply Chain Analyst & Power BI Developer  
-<sub>Results-driven Supply Chain Analyst and Power BI Developer with 2 years of experience delivering BI solutions for Supply Chain Optimization. Skilled in Power BI, DAX, SQL, and Excel, with a strong ability to turn complex data into actionable insights. Proven ability to simplify complex data and effectively communicate insights to both technical and non-technical stakeholders.</sub>
+<sub>Results-driven Supply Chain Analyst and Power BI Developer with 2 years of experience creating business intelligence solutions to optimize supply chain performance. Proficient in Power BI, DAX, SQL, and Excel, with a talent for transforming complex data into clear, actionable insights. Known for effectively communicating findings to both technical and non-technical audiences, making data-driven decisions easier across teams.</sub>
 
 ---
 
 ## 📊 Power BI Projects
 
-**Revenue Tracker**  
-🔗 [RevenueTracker Demo](https://github.com/louisehealey/RevenueOverview/blob/main/README.md)
+**Revenue Overview Report**  
+🔗 [Revenue Overview Demo](https://github.com/louisehealey/RevenueOverview/blob/main/README.md)
 
 **Open Order Report**  
 🔗 [Open Order Report Demo](https://github.com/louisehealey/OpenOrderReport/blob/main/README.md)
 
+** First Pass Yield**
+
+** Aging Inventory Report**
+
 ---
 ## 🖥️SQL Repository
+🔗 [SQL Queries](https://github.com/louisehealey/SQLQueries/blob/main/README.md)
+
 
 ---
 ## 🖥️Python Repository
