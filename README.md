@@ -7,12 +7,16 @@
 ## 📊 Power BI Projects
 
 **Revenue Overview Report**  
+
 🔗 [Revenue Overview Demo](https://github.com/louisehealey/RevenueOverview/blob/main/README.md)
 
 **Open Order Report**  
+
 🔗 [Open Order Report Demo](https://github.com/louisehealey/OpenOrderReport/blob/main/README.md)
 
-** First Pass Yield**
+**First Pass Yield**
+
+🔗 [First Pass YieldDemo]( https://github.com/louisehealey/FirstPassYield/blob/main/README.md)
 
 ** Aging Inventory Report**
 
@@ -25,7 +29,9 @@
 ## 🖥️Python Repository
 
 ---
+## 🖥️Power Query- M
 
+---
 ## 🤝 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/louisehealey/)
