@@ -18,6 +18,8 @@
 
 🔗 [First Pass YieldDemo]( https://github.com/louisehealey/FirstPassYield/blob/main/README.md)
 
+**Aging Inventory**
+
 🔗 [Aging Inventory Demo]( https://github.com/louisehealey/AgingInventory/blob/main/README.md)
 
 README.md
