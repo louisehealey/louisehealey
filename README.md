@@ -18,8 +18,9 @@
 
 🔗 [First Pass YieldDemo]( https://github.com/louisehealey/FirstPassYield/blob/main/README.md)
 
-** Aging Inventory Report**
+🔗 [Aging Inventory Demo]( https://github.com/louisehealey/AgingInventory/blob/main/README.md)
 
+README.md
 ---
 ## 🖥️SQL Repository
 🔗 [SQL Queries](https://github.com/louisehealey/SQLQueries/blob/main/README.md)
