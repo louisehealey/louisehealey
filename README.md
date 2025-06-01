@@ -22,7 +22,6 @@
 
 🔗 [Aging Inventory Demo]( https://github.com/louisehealey/AgingInventory/blob/main/README.md)
 
-README.md
 ---
 ## 🖥️SQL Repository
 🔗 [SQL Queries](https://github.com/louisehealey/SQLQueries/blob/main/README.md)
