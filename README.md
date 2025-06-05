@@ -1,4 +1,4 @@
-# Hey there, I'm Louise! (She/Her)  
+# Hey there, I'm Louise!
 ### 👩‍💻 Supply Chain Analyst & Power BI Developer  
 <sub>Results-driven Supply Chain Analyst and Power BI Developer with 2 years of experience creating business intelligence solutions to optimize supply chain performance. Proficient in Power BI, DAX, SQL, and Excel, with a talent for transforming complex data into clear, actionable insights. Known for effectively communicating findings to both technical and non-technical audiences, making data-driven decisions easier across teams.</sub>
 
