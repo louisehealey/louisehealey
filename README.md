@@ -6,21 +6,21 @@
 
 ## 📊 Power BI Projects
 
-**Revenue Overview Report**  
+**Aging Inventory** <br>
+Track inventory age to improve stock management and reduce holding costs.<br>
+🔗 [Aging Inventory Demo]( https://github.com/louisehealey/AgingInventory/blob/main/README.md)
 
+**Revenue Overview Report**  <br>
+Quickly assess total revenue performance with a high-level summary.<br>
 🔗 [Revenue Overview Demo](https://github.com/louisehealey/RevenueOverview/blob/main/README.md)
 
-**Open Order Report**  
-
+**Open Order Report**  <br>
+Easily slice Open Purchase Order data for easier analysis.<br>
 🔗 [Open Order Report Demo](https://github.com/louisehealey/OpenOrderReport/blob/main/README.md)
 
-**First Pass Yield**
-
+**First Pass Yield**<br>
+Monitor real-time production quality for improved efficiency.<br>
 🔗 [First Pass YieldDemo]( https://github.com/louisehealey/FirstPassYield/blob/main/README.md)
-
-**Aging Inventory**
-
-🔗 [Aging Inventory Demo]( https://github.com/louisehealey/AgingInventory/blob/main/README.md)
 
 ---
 ## 🖥️SQL Repository
