@@ -24,7 +24,7 @@ Monitor real-time production quality for improved efficiency.<br>
 
 ---
 ## 🖥️SQL Repository
-Efficently load and transform data into Power BI using SQL
+Efficently load and transform data into Power BI using SQL. <br>
 🔗 [SQL Queries](https://github.com/louisehealey/SQLQueries/blob/main/README.md)
 
 
