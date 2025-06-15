@@ -32,7 +32,7 @@ Efficently load and transform data into Power BI using SQL. <br>
 ## 🖥️Python Repository
 
 ---
-## 🖥️Power Query- M  PowerQueryM
+## 🖥️Power Query- M
 Efficently load and transform data into Power BI Power Query M. <br>
 🔗 [Power Queries M](https://github.com/louisehealey/PowerQueryM/blob/main/README.md)
 
