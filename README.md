@@ -20,7 +20,7 @@ Easily slice Open Purchase Order data for easier analysis.<br>
 
 **First Pass Yield**<br>
 Monitor real-time production quality for improved efficiency.<br>
-🔗 [First Pass YieldDemo]( https://github.com/louisehealey/FirstPassYield/blob/main/README.md)
+🔗 [First Pass Yield Demo]( https://github.com/louisehealey/FirstPassYield/blob/main/README.md)
 
 ---
 ## 🖥️SQL Repository
