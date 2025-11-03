@@ -22,6 +22,10 @@ Easily slice Open Purchase Order data for easier analysis.<br>
 Monitor real-time production quality for improved efficiency.<br>
 🔗 [First Pass Yield Demo]( https://github.com/louisehealey/FirstPassYield/blob/main/README.md)
 
+**Daily Production Overview**<br>
+Monitor daily output and scenario plan across the calendar month for better resource allocation.<br>
+🔗 [Daily Production Demo]( https://github.com/louisehealey/DailyProduction/blob/main/README.md)
+
 ---
 ## 🖥️SQL Repository
 Efficently load and transform data into Power BI using SQL. <br>
